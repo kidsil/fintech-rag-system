@@ -1,0 +1,4 @@
+nltk==3.8.1
+openai==1.35.14
+pinecone==4.0.0
+Flask==3.0.3
